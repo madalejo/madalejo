@@ -1,5 +1,5 @@
 ### Things I code with
-![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
 
 ### Hi there 👋
 
