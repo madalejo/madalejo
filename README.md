@@ -1,5 +1,8 @@
 ### Things I code with
-![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white) ![Static Badge](https://img.shields.io/badge/React-087ea4?style=flat-square&logo=react&logoColor=white)
+![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white) ![Static Badge](https://img.shields.io/badge/React-087ea4?style=flat-square&logo=react&logoColor=white) ![Static Badge](https://img.shields.io/badge/GraphQL-f6009c?style=flat-square&logo=graphql&logoColor=white) ![Static Badge](https://img.shields.io/badge/Git-413932?style=flat-square&logo=git&logoColor=FB4F28) ![Static Badge](https://img.shields.io/badge/NPM-CC0001?style=flat-square&logo=git&logoColor=white)
+
+
+
 
 
 ### Hi there 👋
