@@ -1,3 +1,6 @@
+### Things I code with
+![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white)
+
 ### Hi there 👋
 
 <!--
